@@ -1,0 +1,10 @@
+{
+	"name": "@readquick/config",
+	"version": "0.0.1",
+	"main": "tailwind.config.mjs",
+	"license": "MIT",
+	"type": "module",
+	"files": [
+		"tailwind.config.mjs"
+	]
+}

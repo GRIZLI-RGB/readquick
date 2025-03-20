@@ -17,5 +17,10 @@
 		"apps/*",
 		"apps/client/*",
 		"packages/*"
-	]
+	],
+	"dependencies": {
+		"autoprefixer": "^10.4.21",
+		"postcss": "^8.5.3",
+		"tailwindcss": "^4"
+	}
 }
